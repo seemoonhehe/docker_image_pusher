@@ -1,3 +1,3 @@
 postgres:latest
-zabbix/zabbix-server:7.2
-zabbix/zabbix-web-nginx-pgsql:latest
+zabbix-server:7.2
+zabbix-web-nginx-pgsql:latest
